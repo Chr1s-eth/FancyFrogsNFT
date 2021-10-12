@@ -1,0 +1,2 @@
+# FancyFrogsNFT
+Fancy Frog Project
